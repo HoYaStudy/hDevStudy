@@ -6,3 +6,4 @@ This repository is collection of HoYa's development study.
 
 * [CSS](docs/css.md)
 * [HTML](docs/html.md)
+* [Python](docs/python.md)
