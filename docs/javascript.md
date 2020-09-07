@@ -5,6 +5,8 @@
 * [Variable](https://hdevstudy.tistory.com/30)
 * [Data Types](https://hdevstudy.tistory.com/32)
 * [Operators](https://hdevstudy.tistory.com/33)
+* [Control Statements](https://hdevstudy.tistory.com/35)
+* [Functions](https://hdevstudy.tistory.com/37)
 * [Array Destructuring](https://hdevstudy.tistory.com/25)
 * [Object Destructuring](https://hdevstudy.tistory.com/26)
 
