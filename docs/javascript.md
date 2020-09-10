@@ -7,6 +7,7 @@
 * [Operators](https://hdevstudy.tistory.com/33)
 * [Control Statements](https://hdevstudy.tistory.com/35)
 * [Functions](https://hdevstudy.tistory.com/37)
+* [Class](https://hdevstudy.tistory.com/39)
 * [Array Destructuring](https://hdevstudy.tistory.com/25)
 * [Object Destructuring](https://hdevstudy.tistory.com/26)
 
@@ -16,6 +17,10 @@
 * [Node.js](https://hdevstudy.tistory.com/15)
 * [NPM](https://hdevstudy.tistory.com/16)
 * [yarn](https://hdevstudy.tistory.com/17)
+
+## Babel.js
+
+* [Babel](https://hdevstudy.tistory.com/40)
 
 ## React.js
 
