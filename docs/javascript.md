@@ -11,21 +11,6 @@
 * [Array Destructuring](https://hdevstudy.tistory.com/25)
 * [Object Destructuring](https://hdevstudy.tistory.com/26)
 
-## Node.js
-
-* [NVM](https://hdevstudy.tistory.com/14)
-* [Node.js](https://hdevstudy.tistory.com/15)
-* [NPM](https://hdevstudy.tistory.com/16)
-* [yarn](https://hdevstudy.tistory.com/17)
-
-## Gulp.js
-
-* [Gulp](https://hdevstudy.tistory.com/43)
-
-## Babel.js
-
-* [Babel](https://hdevstudy.tistory.com/40)
-
 ## React.js
 
 * [prop-types](https://hdevstudy.tistory.com/27)
