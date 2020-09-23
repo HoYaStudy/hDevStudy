@@ -9,6 +9,7 @@ This repository is collection of HoYa's development study.
 
 ## Developmen Environment
 
+* [Git](docs/git.md)
 * [Web](docs/web.md)
 
 ## Language
