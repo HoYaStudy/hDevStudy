@@ -10,6 +10,7 @@
 
 * [BeautifulSoup](https://hdevstudy.tistory.com/64)
 * [Flask](https://hdevstudy.tistory.com/65)
+* [pathlib](https://hdevstudy.tistory.com/67)
 * [requests](https://hdevstudy.tistory.com/63)
 
 ## playground
