@@ -7,7 +7,7 @@ This repository is collection of HoYa's development study.
 * [MAC](docs/mac.md)
 * [Windows](docs/windows.md)
 
-## Developmen Environment
+## Development Environment
 
 * [Git](docs/git.md)
 * [Web](docs/web.md)
