@@ -20,3 +20,7 @@ This repository is collection of HoYa's development study.
 * [JavaScript](docs/javascript.md)
 * [Python](docs/python.md)
 * [TypeScript](docs/typescript.md)
+
+## Tools
+
+* [Excel](docs/excel.md)
