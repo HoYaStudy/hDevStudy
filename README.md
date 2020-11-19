@@ -21,6 +21,10 @@ This repository is collection of HoYa's development study.
 * [Python](docs/python.md)
 * [TypeScript](docs/typescript.md)
 
+## Deep Learning
+
+* [Deep Learning](doc/deeplearning.md)
+
 ## Tools
 
 * [Excel](docs/excel.md)
