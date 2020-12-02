@@ -22,3 +22,6 @@
 ## Tips
 
 * [Matrix Operation](https://hdevstudy.tistory.com/102)
+* [대출 이자 계산 - 만기일시](https://hdevstudy.tistory.com/124)
+* [대출 이자 계산 - 원금균등](https://hdevstudy.tistory.com/125)
+* [대출 이자 계산 - 원리금 균등](https://hdevstudy.tistory.com/126)
