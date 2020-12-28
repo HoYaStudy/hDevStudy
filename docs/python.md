@@ -1,5 +1,10 @@
 # Python
 
+## Syntax
+
+* [List](https://hdevstudy.tistory.com/129)
+* [Dictionary](https://hdevstudy.tistory.com/128)
+
 ## Development Environment
 
 * [pyenv](https://hdevstudy.tistory.com/11)
