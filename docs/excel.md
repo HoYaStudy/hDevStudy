@@ -17,7 +17,14 @@
 
 ## Features
 
+* [Group/Ungroup](https://hdevstudy.tistory.com/136)
 * [Solver](https://hdevstudy.tistory.com/104)
+
+## Shortcuts
+
+* [Selecting Cell](https://hdevstudy.tistory.com/138)
+* [Hide/Unhide](https://hdevstudy.tistory.com/139)
+* [SUM](https://hdevstudy.tistory.com/137)
 
 ## Tips
 
