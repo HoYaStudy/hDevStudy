@@ -27,5 +27,5 @@ This repository is collection of HoYa's development study.
 
 ## Tools
 
-* [VS Code](docs/vscode.md)
+* [Tools](docs/tools.md)
 * [Excel](docs/excel.md)
