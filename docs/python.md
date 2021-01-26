@@ -4,6 +4,8 @@
 
 * [List](https://hdevstudy.tistory.com/129)
 * [Dictionary](https://hdevstudy.tistory.com/128)
+* [Formatted String](https://hdevstudy.tistory.com/140)
+* [*args and **kwargs](https://hdevstudy.tistory.com/141)
 
 ## Development Environment
 
