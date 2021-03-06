@@ -30,3 +30,4 @@ This repository is collection of HoYa's development study.
 
 * [Tools](docs/tools.md)
 * [Excel](docs/excel.md)
+* [Etc](docs/etc.md)
