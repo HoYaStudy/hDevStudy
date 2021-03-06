@@ -14,6 +14,7 @@ This repository is collection of HoYa's development study.
 
 ## Language
 
+* [C](docs/c.md)
 * [CSS](docs/css.md)
 * [Go](docs/go.md)
 * [HTML](docs/html.md)
