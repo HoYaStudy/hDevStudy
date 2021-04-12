@@ -5,6 +5,7 @@ This repository is collection of HoYa's development study.
 ## System
 
 * [MAC](docs/mac.md)
+* [Linux](docs/linux.md)
 * [Windows](docs/windows.md)
 
 ## Development Environment
