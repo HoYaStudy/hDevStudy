@@ -14,3 +14,4 @@
 ## Tips
 
 * [To Change Color of the `ls` Command](https://hdevstudy.tistory.com/52)
+* [Formatting External SSD](https://hdevstudy.tistory.com/159)
