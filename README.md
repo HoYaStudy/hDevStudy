@@ -23,9 +23,10 @@ This repository is collection of HoYa's development study.
 * [Python](docs/python.md)
 * [TypeScript](docs/typescript.md)
 
-## Deep Learning
+## Artificial Intelligence
 
 * [Deep Learning](doc/deeplearning.md)
+* [Reinforcement Learning](doc/reinforcementlearning.md)
 
 ## Tools
 
