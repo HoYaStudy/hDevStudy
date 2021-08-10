@@ -1,11 +1,9 @@
 # JavaScript
 
 ## Development Environment
-
 * [VS Code](https://hdevstudy.tistory.com/66)
 
 ## Syntax
-
 * [Basic Types](https://hdevstudy.tistory.com/68)
 * [Indexed Access Types, Mapped Types, Conditional Types](https://hdevstudy.tistory.com/153)
 * [Template Literal Types](https://hdevstudy.tistory.com/155)
@@ -17,3 +15,7 @@
 * [Class](https://hdevstudy.tistory.com/72)
 * [Iterator and Generator](https://hdevstudy.tistory.com/80)
 * [Decorator](https://hdevstudy.tistory.com/81)
+* [Mixin](https://hdevstudy.tistory.com/197)
+
+## Design Pattern
+* [Singleton Pattern](https://hdevstudy.tistory.com/196)
