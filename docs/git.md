@@ -12,3 +12,4 @@
 
 * [Change Committer/Author](https://hdevstudy.tistory.com/146)
 * [Revert Merged Commit](https://hdevstudy.tistory.com/151)
+* [Cherry-pick from Different Repository](https://hdevstudy.tistory.com/226)
