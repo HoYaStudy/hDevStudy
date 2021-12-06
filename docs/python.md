@@ -3,6 +3,7 @@
 ## Syntax
 
 * [Underscore](https://hdevstudy.tistory.com/160)
+* [String](https://hdevstudy.tistory.com/218)
 * [List](https://hdevstudy.tistory.com/129)
 * [Dictionary](https://hdevstudy.tistory.com/128)
 * [Formatted String](https://hdevstudy.tistory.com/140)
@@ -16,6 +17,9 @@
 * [venv](https://hdevstudy.tistory.com/12)
 * [pip](https://hdevstudy.tistory.com/41)
 * [on Docker](https://hdevstudy.tistory.com/200)
+* [Testing](https://hdevstudy.tistory.com/217)
+* [Debugging](https://hdevstudy.tistory.com/216)
+* [Docstring](https://hdevstudy.tistory.com/212)
 
 ## Built-in Modules
 
@@ -29,6 +33,7 @@
     * [OrderedDict](https://hdevstudy.tistory.com/163)
 * [functools](https://hdevstudy.tistory.com/168)
 * [itertools](https://hdevstudy.tistory.com/170)
+* [logging](https://hdevstudy.tistory.com/215)
 * [pathlib](https://hdevstudy.tistory.com/67)
 * [requests](https://hdevstudy.tistory.com/63)
 * [tkinter]
@@ -45,6 +50,9 @@
 * [matplotlib](https://hdevstudy.tistory.com/147)
 * PyQt6
     * [Getting Started](https://hdevstudy.tistory.com/199)
+
+## Design Pattern
+* [Singleton Pattern](https://hdevstudy.tistory.com/219)
 
 ## Reference
 
