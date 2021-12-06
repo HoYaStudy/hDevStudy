@@ -52,6 +52,9 @@
 * [Jest](https://hdevstudy.tistory.com/57)
   + [Jest: Testing with Error Return](https://hdevstudy.tistory.com/133)
 
+## Debugging
+* [console object](https://hdevstudy.tistory.com/230)
+
 ## ETC
 
 ### Scraping / Crawling
