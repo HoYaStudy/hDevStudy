@@ -16,9 +16,12 @@
 ## Guide
 
 * [BEM](https://hdevstudy.tistory.com/7)
+* [Specificity](https://hdevstudy.tistory.com/231)
 
 ## Reference
 
 * https://flukeout.github.io
 * https://flexboxfroggy.com/
 * https://cssgridgarden.com/
+* https://specifishity.com/
+* https://cssspecificity.com/
