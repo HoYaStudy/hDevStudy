@@ -48,6 +48,13 @@
     * [Flask-Mail](https://hdevstudy.tistory.com/148)
     * [Flask-Markdown](https://hdevstudy.tistory.com/149)
 * [matplotlib](https://hdevstudy.tistory.com/147)
+* pandas
+    * [Kaggle Course 1](https://hdevstudy.tistory.com/239)
+    * [Kaggle Course 2](https://hdevstudy.tistory.com/240)
+    * [Kaggle Course 3](https://hdevstudy.tistory.com/241)
+    * [Kaggle Course 4](https://hdevstudy.tistory.com/242)
+    * [Kaggle Course 5](https://hdevstudy.tistory.com/243)
+    * [Kaggle Course 6](https://hdevstudy.tistory.com/244)
 * PyQt6
     * [Getting Started](https://hdevstudy.tistory.com/199)
 
