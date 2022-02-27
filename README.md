@@ -26,6 +26,9 @@ This repository is collection of HoYa's development study.
 ## Framework
 * [Flutter](doc/flutter.md)
 
+## Investment
+* [Investment](doc/investment.md)
+
 ## Tools
 * [Tools](docs/tools.md)
 * [Excel](docs/excel.md)
