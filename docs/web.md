@@ -53,7 +53,7 @@
   + [Jest: Testing with Error Return](https://hdevstudy.tistory.com/133)
 
 ## Debugging
-* [console object](https://hdevstudy.tistory.com/230)
+* [console Object](https://hdevstudy.tistory.com/230)
 
 ## ETC
 
