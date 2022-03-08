@@ -7,3 +7,4 @@
 ## System
 
 * [Terminal](https://hdevstudy.tistory.com/131)
+* [Hibernate](https://hdevstudy.tistory.com/251)
