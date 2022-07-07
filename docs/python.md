@@ -44,6 +44,7 @@
 
 * [BeautifulSoup](https://hdevstudy.tistory.com/64)
 * [DearPyGui](https://hdevstudy.tistory.com/145)
+* [DotEnv](https://hdevstudy.tistory.com/264)
 * [Flask](https://hdevstudy.tistory.com/65)
     * [Flask-Mail](https://hdevstudy.tistory.com/148)
     * [Flask-Markdown](https://hdevstudy.tistory.com/149)
@@ -55,11 +56,15 @@
     * [Kaggle Course 4](https://hdevstudy.tistory.com/242)
     * [Kaggle Course 5](https://hdevstudy.tistory.com/243)
     * [Kaggle Course 6](https://hdevstudy.tistory.com/244)
+* [PostgreSQL](https://hdevstudy.tistory.com/265)
 * PyQt6
     * [Getting Started](https://hdevstudy.tistory.com/199)
 
 ## Design Pattern
 * [Singleton Pattern](https://hdevstudy.tistory.com/219)
+
+## Etc
+* [Telegram Bot](https://hdevstudy.tistory.com/263)
 
 ## Reference
 
